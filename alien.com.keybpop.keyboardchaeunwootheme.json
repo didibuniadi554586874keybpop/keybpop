@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
+      "select_main_ads": "MOPUB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_banner": "a4ce31db31b84b29b2121ae6d3e5c7eb",
+      "main_ads_intertitial":"cdde572a25194662b94b6616b4b32052",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "initialize_sdk":"11087a70d",
+      "initialize_sdk":"a4ce31db31b84b29b2121ae6d3e5c7eb",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.keybpop.keyboardchaeunwootheme",
       "high_paying_keyword_1": "Forex",
