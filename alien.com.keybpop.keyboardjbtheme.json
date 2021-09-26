@@ -2,22 +2,22 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"DefaultBanner",
-      "backup_ads_intertitial":"DefaultInterstitial",
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"11089734d",
-      "url_webiste":"https://play.google.com/store/apps/details?id=com.keybpop.keyboardbambamtheme",
+      "select_main_ads": "MOPUB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "8833927ac212411f9e4f331c365dd608",
+      "main_ads_intertitial":"9b159f82a3034dffbd0f02c3c6ae666e",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "initialize_sdk":"8833927ac212411f9e4f331c365dd608",
+      "initialize_sdk_backup_ads":"",
+      "url_webiste":"https://play.google.com/store/apps/details?id=com.keybpop.keyboardjbtheme",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
       "high_paying_keyword_3": "Binary Option",
       "high_paying_keyword_4": "Finance",
       "high_paying_keyword_5": "Trading Forex",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.keybpop.keyboardbambamtheme"
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.keybpop.keyboardjbtheme"
     }
   ]
 }
