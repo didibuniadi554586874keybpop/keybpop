@@ -2,14 +2,14 @@
 
 "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"MOPUB",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "5dbf31d69ffbbca0",
       "main_ads_intertitial":"dfba418cfdf7dbbf",
-      "backup_ads_banner":"0326753eab904c4d9f13afacd29e2263",
-      "backup_ads_intertitial":"203c9bc9f75f49f7b23fc5045e66dde0",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"0326753eab904c4d9f13afacd29e2263",
+      "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.keybpop.keyboardmarktuantheme",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
