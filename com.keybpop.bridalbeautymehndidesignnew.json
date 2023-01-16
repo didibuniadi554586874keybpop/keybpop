@@ -1,0 +1,127 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"1",
+         "on_off_native_listview":"0",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "on_off_category":""
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Ludo King",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Bridal Mehndi",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/bridalmehndi001.jpg"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 1",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi001.jpg"
+      },
+      {
+         "id":2,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 2",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi002.jpg"
+      },
+      {
+         "id":3,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 3",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi003.jpg"
+      },
+      {
+         "id":4,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 4",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi004.jpg"
+      },
+      {
+         "id":5,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 5",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi005.jpg"
+      },
+      {
+         "id":6,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 6",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi006.jpg"
+      },
+      {
+         "id":7,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 7",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi007.jpg"
+      },
+      {
+         "id":8,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 8",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi008.jpg"
+      },
+      {
+         "id":9,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 9",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi009.jpg"
+      },
+      {
+         "id":10,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 10",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi010.jpg"
+      },
+      {
+         "id":11,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 11",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi011.jpg"
+      },
+      {
+         "id":12,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 12",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi012.jpg"
+      },
+      {
+         "id":13,
+         "name_category":"Bridal Mehndi",
+         "title":"Bridal Mehndi 13",
+         "image":"https://keybpopcode.files.wordpress.com/2023/01/bridalmehndi013.jpg"
+      }
+   ]
+}
