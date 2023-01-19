@@ -1,0 +1,117 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"IRON",
+         "select_backup_ads":"null",
+         "main_ads_banner":"DefaultBanner",
+         "main_ads_intertitial":"DefaultInterstitial",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"DefaultRewardedVideo",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "interval_intertitial":2,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"Modambulans",
+         "title":"Ambulance Bangl",
+         "image":"https://archive.org/download/ambulance_202210/Ambulance%20Banglass.jpg",
+         "link_mods":"https://archive.org/download/modambulance/MOD%20AMBULANCE%20BY%20AZUMODS_BASSAMAZUPER.bussidvehicle",
+         "link_livery":"null"
+      },
+      {
+         "id":2,
+         "category":"Modambulans",
+         "title":"Ambulance Kerri",
+         "image":"https://archive.org/download/ambulance_202210/Ambulance%20Carryss.jpg",
+         "link_mods":"https://archive.org/download/granmx/CARRY%20BY%20DSP.bussidmod",
+         "link_livery":"https://archive.org/download/granmx/omini%20ambulance%20livery%20by%20pravin%20editz%20%281%29.png"
+      },
+      {
+         "id":3,
+         "category":"Modambulans",
+         "title":"Ambulance Kerri 2",
+         "image":"https://archive.org/download/ambulance_202210/Ambulance%20Carry%202ss.jpg",
+         "link_mods":"https://archive.org/download/modambulance/Maruti%20suzuki%20omini%20mode.bussidvehicle",
+         "link_livery":"https://archive.org/download/modambulance/AMBULANCE%20OMINI%20SKIN.png"
+      },
+      {
+         "id":4,
+         "category":"Modambulans",
+         "title":"Ambulance HiAse",
+         "image":"https://archive.org/download/ambulance_202210/Ambulance%20Hi%20Acess.jpg",
+         "link_mods":"https://archive.org/download/modambulance/Toyota%20HiAce%20Ambulance.bussidmod",
+         "link_livery":"https://archive.org/download/modambulance/template.png"
+      },
+      {
+         "id":5,
+         "category":"Modambulans",
+         "title":"Ambulance Travel",
+         "image":"https://archive.org/download/ambulance_202210/Ambulance%20Travel%20Carss.jpg",
+         "link_mods":"https://archive.org/download/modambulance/kbg_travaller_v1.bussidmod",
+         "link_livery":"https://archive.org/download/modambulance/Ambulance%20livery%20created%20by%20dileep%20gamer.png"
+      },
+      {
+         "id":6,
+         "category":"Modambulans",
+         "title":"AVfi Ambulance",
+         "image":"https://archive.org/download/ambulance_202210/Apv%20Ambulancess.jpg",
+         "link_mods":"https://archive.org/download/modambulance/APV%20AMBULANCE%20BY%20DSP.bussidmod",
+         "link_livery":"https://archive.org/download/modambulance/Black.png"
+      },
+      {
+         "id":7,
+         "category":"Modambulans",
+         "title":"Elep AMBULANCE",
+         "image":"https://archive.org/download/ambulance_202210/Elf%20AMBULANCEss.jpg",
+         "link_mods":"https://archive.org/download/modambulance/ELF%20AMBULANCE%20-%20GRONK.png",
+         "link_livery":"https://archive.org/download/modambulance/MINI%20BUS%20B.bussidmod"
+      },
+      {
+         "id":8,
+         "category":"Modambulans",
+         "title":"GrenMeks Jenazah",
+         "image":"https://archive.org/download/ambulance_202210/Granmax%20Jenazahss.jpg",
+         "link_mods":"https://archive.org/download/modambulance/Mod%20Ambulan%20Jenazah.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"Modambulans",
+         "title":"GrenMeks Ambulance",
+         "image":"https://archive.org/download/ambulance_202210/Grenmax%20Ambulance%202ss.jpg",
+         "link_mods":"https://archive.org/download/granmx/Cary%202.bussidvehicle",
+         "link_livery":"https://archive.org/download/granmx/AMBULANCE%20OMINI%20SKIN.png"
+      },
+      {
+         "id":10,
+         "category":"Modambulans",
+         "title":"Keranda Jenazah",
+         "image":"https://archive.org/download/ambulance_202210/Keranda%20Jenazahss.jpg",
+         "link_mods":"https://archive.org/download/modambulance/keranda%20terbang.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":11,
+         "category":"Modambulans",
+         "title":"Mersyi Ambulance",
+         "image":"https://archive.org/download/ambulance_202210/Mercy%20AMBULANCEss.jpg",
+         "link_mods":"https://archive.org/download/modambulance/Mercedez%20Sprinter.bussidmod",
+         "link_livery":"https://archive.org/download/modambulance/Ambulance%20Livery%20Mercy.png"
+      }
+   ]
+}
