@@ -1,0 +1,61 @@
+{
+   "Ads":[
+      {
+		 
+	  "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"11089003d",
+      "high_paying_keyword_1":"Forex",
+      "high_paying_keyword_2":"Insurance",
+      "high_paying_keyword_3":"attorney",
+      "high_paying_keyword_4":"Finance",
+      "high_paying_keyword_5":"Trading",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "Theme":[
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson001.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson002.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson003.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson004.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson005.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson006.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson007.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson008.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson009.png"
+      },
+      {
+         "url_theme":"https://keybpopcode.files.wordpress.com/2022/03/jackson010.png"
+      }
+   ]
+}
